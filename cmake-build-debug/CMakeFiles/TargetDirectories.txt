@@ -1,0 +1,3 @@
+C:/Documents/Работы/Университет/CodeReview/Lab1/cmake-build-debug/CMakeFiles/Lab1.dir
+C:/Documents/Работы/Университет/CodeReview/Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Documents/Работы/Университет/CodeReview/Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
