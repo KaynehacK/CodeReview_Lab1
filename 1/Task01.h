@@ -1,3 +1,4 @@
+/*
 //
 // Created by Роман on 17.04.2025.
 //
@@ -6,3 +7,4 @@
 #define LAB1_TASK01_H
 
 #endif //LAB1_TASK01_H
+*/
