@@ -49,23 +49,23 @@ cmake_ninja_workdir = C$:/Documents/Работы/Университет/CodeRevi
 
 build cmake_object_order_depends_target_Lab1: phony || .
 
-build CMakeFiles/Lab1.dir/2/Task02.cpp.obj: CXX_COMPILER__Lab1_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab1/2/Task02.cpp || cmake_object_order_depends_target_Lab1
-  DEP_FILE = CMakeFiles\Lab1.dir\2\Task02.cpp.obj.d
+build CMakeFiles/Lab1.dir/4/Task04.cpp.obj: CXX_COMPILER__Lab1_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab1/4/Task04.cpp || cmake_object_order_depends_target_Lab1
+  DEP_FILE = CMakeFiles\Lab1.dir\4\Task04.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Lab1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab1.dir\2
+  OBJECT_FILE_DIR = CMakeFiles\Lab1.dir\4
 
-build CMakeFiles/Lab1.dir/2/Task02Fixed.cpp.obj: CXX_COMPILER__Lab1_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab1/2/Task02Fixed.cpp || cmake_object_order_depends_target_Lab1
-  DEP_FILE = CMakeFiles\Lab1.dir\2\Task02Fixed.cpp.obj.d
+build CMakeFiles/Lab1.dir/4/Task04Solution.cpp.obj: CXX_COMPILER__Lab1_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab1/4/Task04Solution.cpp || cmake_object_order_depends_target_Lab1
+  DEP_FILE = CMakeFiles\Lab1.dir\4\Task04Solution.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Lab1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab1.dir\2
+  OBJECT_FILE_DIR = CMakeFiles\Lab1.dir\4
 
-build CMakeFiles/Lab1.dir/2/Task02Solution.cpp.obj: CXX_COMPILER__Lab1_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab1/2/Task02Solution.cpp || cmake_object_order_depends_target_Lab1
-  DEP_FILE = CMakeFiles\Lab1.dir\2\Task02Solution.cpp.obj.d
+build CMakeFiles/Lab1.dir/4/Task04Fixed.cpp.obj: CXX_COMPILER__Lab1_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab1/4/Task04Fixed.cpp || cmake_object_order_depends_target_Lab1
+  DEP_FILE = CMakeFiles\Lab1.dir\4\Task04Fixed.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Lab1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab1.dir\2
+  OBJECT_FILE_DIR = CMakeFiles\Lab1.dir\4
 
 
 # =============================================================================
@@ -75,7 +75,7 @@ build CMakeFiles/Lab1.dir/2/Task02Solution.cpp.obj: CXX_COMPILER__Lab1_unscanned
 #############################################
 # Link the executable Lab1.exe
 
-build Lab1.exe: CXX_EXECUTABLE_LINKER__Lab1_Debug CMakeFiles/Lab1.dir/2/Task02.cpp.obj CMakeFiles/Lab1.dir/2/Task02Fixed.cpp.obj CMakeFiles/Lab1.dir/2/Task02Solution.cpp.obj
+build Lab1.exe: CXX_EXECUTABLE_LINKER__Lab1_Debug CMakeFiles/Lab1.dir/4/Task04.cpp.obj CMakeFiles/Lab1.dir/4/Task04Solution.cpp.obj CMakeFiles/Lab1.dir/4/Task04Fixed.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Lab1.dir

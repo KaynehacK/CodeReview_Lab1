@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -67,14 +66,13 @@ string StringSolution(vector<vector<int>> dp, const int& n) {
 
 bool WriteOutput(const string& output_file_name,
                  const string& solution,
-                 const int& maxSum) {
+                 const int& max_sum) {
     ofstream output(output_file_name); //"b.txt"
     if (!output.is_open()) {
         cerr << "Cannot open output file: " << output_file_name << endl;
         return false;
     }
-    output << maxSum << endl << solution;
+    output << max_sum << endl << solution;
     output.close();
     return true;
 }
-*/

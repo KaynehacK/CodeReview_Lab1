@@ -1,4 +1,3 @@
-/*
 #ifndef LAB1_TASK02_H
 #define LAB1_TASK02_H
 
@@ -22,4 +21,3 @@ bool WriteOutput(const string& output_file_name,
                  );
 
 #endif //LAB1_TASK02_H
-*/
